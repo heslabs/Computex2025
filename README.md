@@ -18,3 +18,11 @@
 * Google I/O '25 Keynote
     * 台灣時間：5月21日（三）01:00
     * https://www.youtube.com/watch?v=o8NiE3XMPrM
+
+
+----
+
+
+
+* NVIDIA GTC Spring 2025 Keynote: Introducing NVIDIA DGX Spark
+   * https://www.youtube.com/watch?v=6p4U1kSiegg
